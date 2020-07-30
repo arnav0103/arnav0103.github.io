@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="X.css">
+
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<title>Ethnic apparel</title>
+</head>
+<body>
+<header class="header"><img src="X-logo.png" class="logo"> <img src="logo-text-X.png" class="title-header">
+<textarea> Sign-in </textarea><i class="glyphicon glyphicon-user nav-link"></i>
+<a href="index.html" class="nav-link"><i class="material-icons">favorite</i> Wishlist </a>
+<a href="index.html" class="nav-link"><i class="glyphicon glyphicon-shopping-cart"></i> Cart </a>
+<a href="index.html" class="nav-link"><i class="material-icons">home</i> Home </a>
+</header>
+
+
+
+<div><img src="apparel-images/ethnic-main.png" class="subpage-main-image"></div>
+
+
+
+<div class="responsive">
+  <div class="gallery">
+      <img src="apparel-images/ethnic-1.png" width="600" height="400" style="border-bottom: #080142 solid 0px; box-shadow: 1px 1px 15px 1px rgb(179, 178, 178);">
+    <div class="desc"><font color="gray">Price: $1000</font></caption></div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+  	<img src="apparel-images/western-2.png" width="600" height="400" style="border-bottom: #080142 solid 0px; box-shadow: 1px 1px 15px 1px rgb(179, 178, 178);">
+    <div class="desc"><font color="gray"> Price: 899 Rs</font></caption></div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <img src="apparel-images/western-3.png" width="600" height="400" style="border-bottom: #080142 solid 0px; box-shadow: 1px 1px 15px 1px rgb(179, 178, 178);">
+    <div class="desc"><font color="gray"> Price: 599 Rs.</caption></font></div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <img src="apparel-images/western-4.png" width="600" height="400" style="border-bottom: #080142 solid 0px; box-shadow: 1px 1px 15px 1px rgb(179, 178, 178);">
+    <div class="desc"><font color="gray"> Price: $1,200</caption></font></div>
+  </div>
+</div>
+
+
+
+<div class="clearfix"></div>
+
+
+<div class="disclaimer"><center><h1 style="font-family: 'Montserrat', sans-serif;">DISCLAIMER</h1><font style="font-family: 'Roboto', sans-serif;">
+  This is a fictious website made for a project.<br>
+  Any assets including pictures, videos etc. have been taken online for academic purposes only.<br>
+  This website has been designed and developed by Moh Bhargava (Student of class 9-C, Delhi Public School, Rohini)</font></center></div>
+
+</body>
+</html>
