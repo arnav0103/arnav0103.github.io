@@ -1,0 +1,46 @@
+.tophead {
+  color: #1f1f1f;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+}
+.listtext {
+  color: #1f1f1f;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+}
+.resttext {
+  color: #475668;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+}
+
+.row {
+  display: flex;
+}
+.container {
+  position: relative;
+  width: 50%;
+}
+.button {
+  border: none;
+  color: #1f1f1f;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 15%;
+}
+
+.button1 {
+  background-color: #f4f2ff;
+  color: #1f1f1f;
+  border: 2px solid #7852d2;
+}
+
+.button1:hover {
+  border: 2px solid #ff446a;
+}
